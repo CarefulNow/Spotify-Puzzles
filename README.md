@@ -1,6 +1,6 @@
 # Spotify Puzzles
 
-Spotted these (No pun intended) and thought they might be fun to try.....using C might make them a little more challenging, not the third one anyway...
+Spotted these (No pun intended) and thought they might be fun to try.....using C instead of Java might make them a little more challenging except for the third one that should be 1 operation either way.
 
 ## 1. Cat vs. Dog (Coming Friday 06/10/2017)
 
