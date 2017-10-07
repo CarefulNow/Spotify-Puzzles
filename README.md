@@ -15,7 +15,7 @@ C1 D1<br/>
 C1 D1<br/>
 C1 D2<br/>
 D2 C1<br/>
-<br/><br/>
+<br/>
 Sample output 1<br/>
 1<br/>
 3<br/>
@@ -30,11 +30,11 @@ Sample input 1<br/>
 30 two<br/>
 15 three<br/>
 25 four<br/>
-<br/><br/>
+<br/>
 Sample output 1<br/>
 four<br/>
 two<br/>
-<br/><br/>
+<br/>
 Sample input 2<br/>
 15 3<br/>
 197812 re_hash<br/>
@@ -52,7 +52,7 @@ Sample input 2<br/>
 12139 starshine<br/>
 11272 slow_country<br/>
 10521 m1_a1<br/>
-<br/><br/>
+<br/>
 Sample output 2<br/>
 19_2000<br/>
 clint_eastwood<br/>
@@ -62,14 +62,14 @@ tomorrow_comes_today<br/>
 ## 3. Reversed Binary Numbers
 When considering a number as binary flip the bits. Can be one operation (^ or not, whichever you want to call it), but here is a more long winded way of getting to the same thing.  
 
-Sample input 1
-13
-
-Sample output 1
-11
-
-Sample input 2
-47
-
-Sample output 2
-61
+Sample input 1<br/>
+13<br/>
+<br/>
+Sample output 1<br/>
+11<br/>
+<br/>
+Sample input 2<br/>
+47<br/>
+<br/>
+Sample output 2<br/>
+61<br/>
